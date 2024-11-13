@@ -9,7 +9,7 @@ tags:
 - cypress
 ---
 
-On my previous post, we looked at how we can generate Mochawesome report from our Cypress tests. I received some really great feedback and I wanted to explore more of Mochawesome's features since I am still fairly new at it. The great thing about the testing community is that people will share ideas on what can be improved. One of the topics that came up was around attaching Cypress screenshots to the report whenever any of the tests fail. In this blog post, I'll walk you through the steps on how you can achieve this. If you haven't read my previous post, I recommend that you do so you have the basic understanding on how to setup Mochawesome with Cypress.
+On my previous [post](https://www.testingwithmarie.com/posts/20200606-test-reporting-with-cypress-and-mochawesome/), we looked at how we can generate Mochawesome report from our Cypress tests. I received some really great feedback and I wanted to explore more of Mochawesome's features since I am still fairly new at it. The great thing about the testing community is that people will share ideas on what can be improved. One of the topics that came up was around attaching Cypress screenshots to the report whenever any of the tests fail. In this blog post, I'll walk you through the steps on how you can achieve this. If you haven't read my previous post, I recommend that you do so you have the basic understanding on how to setup Mochawesome with Cypress.
 
 ## Cypress Screenshots
 

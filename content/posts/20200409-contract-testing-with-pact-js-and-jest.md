@@ -9,7 +9,7 @@ tags:
 - test-automation
 ---
 
-On my previous blog post, I gave an overview about what Contract Testing is and why it's useful for testing microservices. Now let's look at using Pact to show how you can write a contract test.
+On my previous blog [post](https://www.testingwithmarie.com/posts/20200331-introduction-to-contract-testing/), I gave an overview about what Contract Testing is and why it's useful for testing microservices. Now let's look at using Pact to show how you can write a contract test.
 
 In this tutorial, I'll be using [pact-js](https://github.com/pact-foundation/pact-js) and [Jest](https://jestjs.io/) but the concept will be similar if you use any of the other Pact supported languages. The sample API that we will be testing today is a simple movie API which allows consumers to retrieve a list of movies from the provider. 
 

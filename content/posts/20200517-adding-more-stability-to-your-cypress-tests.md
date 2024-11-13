@@ -80,7 +80,7 @@ With the above, my test data is loaded in as a fixture and I am telling Cypress 
 
 ## Tip #5: Use Docker
 
-As explained on my previous post, we were seeing test flakiness in our visual tests using Cypress. There were a lot of mismatches on our visual tests because the baseline image was generated on our local machine but the test images are generated on our CI server which is running on a different system. By using Docker, we are generating both the baseline and test images on the same configurations which helped in reducing the unwanted mismatches and only reported the actual valid differences.
+As explained on my previous [post](https://www.testingwithmarie.com/posts/20200504-using-docker-to-run-your-cypress-tests/), we were seeing test flakiness in our visual tests using Cypress. There were a lot of mismatches on our visual tests because the baseline image was generated on our local machine but the test images are generated on our CI server which is running on a different system. By using Docker, we are generating both the baseline and test images on the same configurations which helped in reducing the unwanted mismatches and only reported the actual valid differences.
 
 ## Tip #6: Delete them if they are not providing value
 
