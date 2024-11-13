@@ -1,0 +1,65 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Marie Cruz'
+theme = 'maverick'
+paginate = 3
+
+[permalinks]
+  pages = "/:slug"
+
+[params]
+  logo = '/assets/favicon.ico'
+  description = "A technology blog about software testing and test automation tips and tutorials by Marie Cruz."
+  author = 'Marie Cruz'
+
+[menu]
+  [[menu.main]]
+    identifier = "courses"
+    name = "Courses"
+    url = "/courses/"
+    weight = "-110"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = -200
+  [[menu.main]]
+    identifier = "speaking"
+    name = "Speaking"
+    url = "/speaking/"
+    weight = -200
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokailight'
+    tabWidth = 4
+
+[taxonomies]
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML"]
+
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "atom"
+
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "feed"
+
+ignoreErrors = ["error-remote-getjson"]
