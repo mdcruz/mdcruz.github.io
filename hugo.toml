@@ -1,5 +1,5 @@
 baseURL = 'https://www.testingwithmarie.com/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'Marie Cruz'
 theme = 'maverick'
 paginate = 5
