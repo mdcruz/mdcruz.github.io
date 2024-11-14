@@ -8,7 +8,6 @@ paginate = 5
   pages = "/:slug"
 
 [params]
-  logo = '/assets/favicon.ico'
   description = "A technology blog about software testing and test automation tips and tutorials by Marie Cruz."
   author = 'Marie Cruz'
 
