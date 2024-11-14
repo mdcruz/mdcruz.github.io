@@ -1,8 +1,8 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://www.testingwithmarie.com/'
 languageCode = 'en-us'
 title = 'Marie Cruz'
 theme = 'maverick'
-paginate = 3
+paginate = 5
 
 [permalinks]
   pages = "/:slug"
