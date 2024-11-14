@@ -14,20 +14,25 @@ paginate = 3
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = "-200"
+  [[menu.main]]
     identifier = "courses"
     name = "Courses"
     url = "/courses/"
-    weight = "-110"
+    weight = "-200"
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
-    weight = -200
+    weight = -110
   [[menu.main]]
     identifier = "speaking"
     name = "Speaking"
     url = "/speaking/"
-    weight = -200
+    weight = -110
 
 [markup]
   [markup.goldmark.renderer]
