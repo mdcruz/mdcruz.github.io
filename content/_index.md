@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 <img class="avatar" src="images/marie_cruz.jpg" alt="Marie Cruz headshot">
 
