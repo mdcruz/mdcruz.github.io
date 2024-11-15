@@ -8,6 +8,10 @@
       {{ partial "header.html" . }}
       {{ .Content }}
       {{ if gt (len ( where .Site.RegularPages "Section" "posts" )) 0 }}
+      <h2>Latest Video</h2>
+      <iframe class="youtube-video" src="https://www.youtube.com/embed/o4rK7_AXZ9Y?si=KnIYpd1HoNNZCKyQ" 
+      title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <h2>Latest Posts</h2>
       <section>
         {{ range (first 5 (where .Site.RegularPages "Section" "posts" ).ByDate.Reverse) }}

@@ -49,7 +49,7 @@ Once you have committed the conflicts and are happy with the changes, then you a
 
 This certainly happens to everyone, it happens to me. You're in the middle of fixing conflicts and you've accepted the incorrect changes. It's not the end of the world when this happens. You can restart the process from the start so none of the changes are applied. You have couple of options which you can do if you encounter this situation:
 
-1. If you have pushed your changes remotely to your branch and you want to reset the process, remember from my previous blog post, that you can reset your commit so that it never happens (by passing in the parameter --hard!). By doing a git reset --hard, this removes the commit from the git history. Note however that if you are going to do this, upon pushing your branch remotely, you would most likely need to force push the changes. Force pushing changes overwrites what has been committed already so be careful when using this feature. This can be done by adding the parameter `-f` when running git push.
+1. If you have pushed your changes remotely to your branch and you want to reset the process, remember from my previous blog [post](https://www.testingwithmarie.com/posts/20200131-using-git-for-branching-and-merging/), that you can reset your commit so that it never happens (by passing in the parameter --hard!). By doing a git reset --hard, this removes the commit from the git history. Note however that if you are going to do this, upon pushing your branch remotely, you would most likely need to force push the changes. Force pushing changes overwrites what has been committed already so be careful when using this feature. This can be done by adding the parameter `-f` when running git push.
 
 `git push origin branch-name -f`
 
