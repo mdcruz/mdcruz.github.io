@@ -7,6 +7,7 @@ tags:
 - tools
 - test-automation
 - cypress
+- api-testing
 ---
 
 This is an accompaniment post to a Cypress lunch and learn series that I've done previously. An example github repo which contains the different code examples can be found [here](https://github.com/mdcruz/cypress-api-testing-framework).

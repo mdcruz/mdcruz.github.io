@@ -1,7 +1,7 @@
 ---
 author: "Marie Cruz"
 title: "Debugging Pipeline Issues With Cypress"
-date: "2021-10-14"
+date: "2021-01-14"
 tags:
 - testing
 - tools
