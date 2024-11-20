@@ -184,7 +184,6 @@ header ul a:first-child {
   border: 0;
   border-bottom: 1px dotted #ccc;
   flex: 1 0 1rem;
-  //opacity: .25;
 }
 
 .m,
@@ -239,6 +238,23 @@ img {
 
 .tags li {
   display: inline;
+}
+
+footer, footer > p {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer ul li {
+  float: left;
+  list-style: none;
+  margin-right: 15px;
+}
+
+.small-icon {
+  height: 25px;
+  weight: 25px;
 }
 
 .avatar {

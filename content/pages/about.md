@@ -20,4 +20,3 @@ She is also a host at [Adobo and Avocados](https://www.youtube.com/@adoboandavoc
 
 She has previously worked as an engineering manager responsible for driving continuous testing and quality improvements, and as a principal engineer, she focused on introducing recommended practices for testing and test automation frameworks.
 
-
