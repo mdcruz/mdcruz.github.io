@@ -7,6 +7,7 @@ tags:
 - tools
 - test-automation
 - performance-testing
+- k6
 ---
 
 In one of my previous posts, I talked about using [Taurus for performance testing](https://www.testingwithmarie.com/posts/20200723-using-taurus-for-performance-testing/), which is an open source tool created by Blazemeter. Nowadays, there are tons of tools out there that you and your team can use when automating performance tests for your application. In this blog post, I'll talk about a tool that I've heard recently, called [k6](https://k6.io/). I haven't used k6 before but I'm always on the lookout for new tools as it's good to get yourself familiarised with different options so you can provide the best tool to your team when it comes to a specific requirement.

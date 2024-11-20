@@ -136,7 +136,7 @@ cy.get('.grid > :nth-child(3)').should('be.visible');
 
 If you also want to write assertions quickly, you can also do this by right clicking on the element that you want to assert and then select from the pre-generated assertions that Cypress Studio can detect.
 
-##Wrapping Up
+## Wrapping Up
 
 Cypress has gained popularity the past couple of years and with new releases, it’s always good to keep ourselves familiar with its changes and features. While this post may not contain an extensive list of features, it’s a good start for learning what Cypress can offer. For further reading, check out Filip Hric’s post on other Cypress plugins that you might find useful – [8 Cypress Plugins You Should Know](https://applitools.com/blog/cypress-plugins/).
 
