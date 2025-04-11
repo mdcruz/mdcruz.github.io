@@ -6,10 +6,14 @@ title: Speaking
 
 Below is a list of speaking engagements from various conferences, meetups, and podcasts I have spoken at to become comfortable with public speaking.
 
+## 2025
+
+- 2025-10-02 [TestBash UK](https://www.ministryoftesting.com/events/testbash-brighton-2025): (Brighton, UK) [Contract testing: the route to confident deployments](https://www.ministryoftesting.com/events/testbash-brighton-2025)
+- 2025-02-11 [Automation Guild](https://testguild.com/automation-guild-2025/): (Online) [Breaking Silos: Contract Testing for Today’s API-Driven World](https://testguild.com/automation-guild-2025/)
+
 ## 2024
 
-I am currently taking a break from any speaking engagements (parental leave).
-
+- 2024-06 to 2024-12 (parental leave)
 - 2024-06-07 [The Test Automation Experience](https://www.youtube.com/@test-automation-experience): (Online) [Contract Testing 101](https://www.youtube.com/watch?v=cw3z98ioIGY)
 - 2024-06-02 [TestGuild](https://testguild.com/): (Online) [Discover the Power of Contract Testing Now!](https://www.youtube.com/watch?v=Zovjpnckxrg)
 - 2024-01-18 [XP Series Webinar](https://www.lambdatest.com/): (Online) [Fast and Furious: The Psychology of Web Performance](https://www.youtube.com/watch?v=AlpsEAmd9fY)
