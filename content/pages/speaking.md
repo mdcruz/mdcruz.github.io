@@ -9,6 +9,7 @@ Below is a list of speaking engagements from various conferences, meetups, and p
 ## 2025
 
 - 2025-10-02 [TestBash UK](https://www.ministryoftesting.com/events/testbash-brighton-2025): (Brighton, UK) [Contract testing: the route to confident deployments](https://www.ministryoftesting.com/events/testbash-brighton-2025)
+- 2025-06-24 [Grafana & Friends London](https://www.meetup.com/grafana-and-friends-london): (London, UK) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://www.meetup.com/grafana-and-friends-london/events/308083109)
 - 2025-02-11 [Automation Guild](https://testguild.com/automation-guild-2025/): (Online) [Breaking Silos: Contract Testing for Today’s API-Driven World](https://testguild.com/automation-guild-2025/)
 
 ## 2024
