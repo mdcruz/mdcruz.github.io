@@ -8,7 +8,11 @@ Below is a list of speaking engagements from various conferences, meetups, and p
 
 ## 2025
 
+- 2025-11-13 [Grafana Labs x Coding Black Females](https://www.eventbrite.co.uk/e/apis-to-omg-transform-your-api-data-to-fun-grafana-dashboards-tickets-1738049124719): (London, UK) [APIs to OMG: Transform your API data to fun Grafana dashboards](https://www.eventbrite.co.uk/e/apis-to-omg-transform-your-api-data-to-fun-grafana-dashboards-tickets-1738049124719)
+- 2025-10-24 [CBFFEST](https://cbf.zohobackstage.eu/fest#/): (Online) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://cbf.zohobackstage.eu/fest#/agenda?day=1&lang=en&sessionId=28071000000483162)
 - 2025-10-02 [TestBash UK](https://www.ministryoftesting.com/events/testbash-brighton-2025): (Brighton, UK) [Contract testing: the route to confident deployments](https://www.ministryoftesting.com/events/testbash-brighton-2025)
+- 2025-09-24 [apidays London](https://www.apidays.global/archive/2025/london): (London, UK) [Infinity and Beyond: Visualise your APIs](https://www.apidays.global/archive/2025/london)
+- 2025-09-19 [SREday London Q3](https://sreday.com/2025-london-q3/): (London, UK) [Observability Made Simple: Monitoring Plants with IoT and Grafana](https://sreday.com/2025-london-q3/)
 - 2025-06-24 [Grafana & Friends London](https://www.meetup.com/grafana-and-friends-london): (London, UK) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://www.meetup.com/grafana-and-friends-london/events/308083109)
 - 2025-02-11 [Automation Guild](https://testguild.com/automation-guild-2025/): (Online) [Breaking Silos: Contract Testing for Today’s API-Driven World](https://testguild.com/automation-guild-2025/)
 
