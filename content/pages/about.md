@@ -6,7 +6,7 @@ title: About
 
 ### Short bio (for speaker profile)
 
-Marie Cruz is a Software Tester with over 10 years of experience and currently works as a Senior Developer Advocate for Grafana Labs. She is also the co-author of [Contract Testing in Action](https://shortener.manning.com/qOn2), the first book dedicated solely to contract testing, and an international speaker. She has previously worked as an engineering manager responsible for driving continuous testing and quality improvements, and as a principal engineer, she focused on introducing recommended practices for testing and test automation frameworks.
+Marie Cruz is a Senior Developer Advocate at Grafana Labs and co-author of [Contract Testing in Action](https://shortener.manning.com/qOn2), the first book dedicated solely to contract testing. She is also an international conference speaker, having spoken on topics ranging from observability to performance and accessibility testing, intersectionality, and more.
 
 ### Long bio
 
