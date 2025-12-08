@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img class="avatar" src="images/marie_cruz.jpg" alt="Marie Cruz headshot">
+<img class="avatar" src="images/marie_cruz.png" alt="Marie Cruz headshot">
 
 Hi! My name is Marie, and I've been testing software for more than 10 years now. Currently, I work as a Senior Developer Advocate at Grafana Labs. 
 
