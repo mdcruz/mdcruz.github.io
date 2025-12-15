@@ -8,6 +8,8 @@ Below is a list of speaking engagements from various conferences, meetups, and p
 
 ## 2025
 
+- 2025-12-18 [Conf42 IoT](https://www.conf42.com/iot2025): (Online) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://www.conf42.com/Internet_of_Things_IoT_2025_Marie_Cruz_sensors_gardening_analytics)
+- 2025-12-03 [Grafana Labs](https://grafana.com/): (Online) [Intro to Application and Frontend Observability with Grafana Cloud](https://grafana.com/go/webinar/intro-to-application-and-frontend-observability-with-grafana-cloud/?pg=videos&plcmt=ondemand)
 - 2025-11-13 [Grafana Labs x Coding Black Females](https://www.eventbrite.co.uk/e/apis-to-omg-transform-your-api-data-to-fun-grafana-dashboards-tickets-1738049124719): (London, UK) [APIs to OMG: Transform your API data to fun Grafana dashboards](https://www.eventbrite.co.uk/e/apis-to-omg-transform-your-api-data-to-fun-grafana-dashboards-tickets-1738049124719)
 - 2025-10-24 [CBFFEST](https://cbf.zohobackstage.eu/fest#/): (Online) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://cbf.zohobackstage.eu/fest#/agenda?day=1&lang=en&sessionId=28071000000483162)
 - 2025-10-02 [TestBash UK](https://www.ministryoftesting.com/events/testbash-brighton-2025): (Brighton, UK) [Contract testing: the route to confident deployments](https://www.ministryoftesting.com/events/testbash-brighton-2025)
