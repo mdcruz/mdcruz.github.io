@@ -6,6 +6,9 @@ title: Speaking
 
 Below is a list of speaking engagements from various conferences, meetups, and podcasts I have spoken at to become comfortable with public speaking.
 
+## 2026
+- 2026-02-05 [Grafana & Friends London](https://www.meetup.com/grafana-and-friends-london): (London, UK) [APIs Made Useful: Transforming Your API Data into Impactful Grafana Dashboards](https://www.meetup.com/grafana-and-friends-london/events/312279058/)
+
 ## 2025
 
 - 2025-12-18 [Conf42 IoT](https://www.conf42.com/iot2025): (Online) [STEM in the Garden: How to Monitor Plants with IoT Sensors and Grafana Cloud](https://www.conf42.com/Internet_of_Things_IoT_2025_Marie_Cruz_sensors_gardening_analytics)
