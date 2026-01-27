@@ -8,6 +8,7 @@ Below is a list of speaking engagements from various conferences, meetups, and p
 
 ## 2026
 - 2026-02-05 [Grafana & Friends London](https://www.meetup.com/grafana-and-friends-london): (London, UK) [APIs Made Useful: Transforming Your API Data into Impactful Grafana Dashboards](https://www.meetup.com/grafana-and-friends-london/events/312279058/)
+- 2026-02-06 [Grafana & Friends Mumbai](https://www.meetup.com/grafana-and-friends-mumbai): (Virtual) [Observability Made Simple: Monitoring Plants with IoT and Grafana](https://www.meetup.com/grafana-and-friends-mumbai/events/312815181/)
 
 ## 2025
 
